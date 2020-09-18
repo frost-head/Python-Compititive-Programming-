@@ -6,6 +6,8 @@ example:
     output: 1
 Explaination:
     the factorial of 5 is 120 and it have one trailing zero.
+    
+By: Ayush github: github.com/frost-head
 """
 def Fact(n): # Finding the Factorial recursively
     if n == 0:
