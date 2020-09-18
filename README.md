@@ -57,6 +57,8 @@ If you want to join the community or you didn't find a question and want to publ
 * At the End of code you must specify how your code worked, you should do it briefly.
 * At last specify and explain the Time complexity of your approach.
 
+_Try Following format of a Already published Code._
+
 ##### Your code must be in Python.
 ##### Your approach Must not already be published.
-##### If your are specifying Multiple approaches. Explain them sepratly.
+##### If your are specifying Multiple approaches. Explain them separately.
