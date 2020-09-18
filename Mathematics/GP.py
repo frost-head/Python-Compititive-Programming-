@@ -6,6 +6,10 @@ example:
             b = 4
             n = 10
     output: 1024
+explanantion:
+    at the 10th value of given gp would be 1024.
+    
+By: Ayush github: github.com/frost-head
 """
 
 def GP(a,b,n):
