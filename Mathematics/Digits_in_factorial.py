@@ -7,6 +7,8 @@ Example :
 
 Explaination:
     factorial of 5 is 120 and 120 have 3 digits
+    
+By: Ayush github: github.com/frost-head
 """
 
 
