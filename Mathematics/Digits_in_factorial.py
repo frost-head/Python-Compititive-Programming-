@@ -14,14 +14,14 @@ By: Ayush github: github.com/frost-head
 
 import math
 
-def digits_In_Factorial(N):
+def digits_In_Factorial(int(input("Enter the Number"))):
     fact = 1 
     for i in range(1,N+1):
         fact *= i 
     return len(str(fact))
 
 
-print(digits_In_Factorial(5))
+print(digits_In_Factorial())
 
 """
 solution explaianation:
