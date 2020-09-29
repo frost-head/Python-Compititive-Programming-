@@ -3,6 +3,9 @@
 ## What is it?
 #### This is a resource for the guys interested in Compitive programing or want to get a job in tech companies. 
 Multiple solved programming questions are avilable (in python) here with explained solutions. Completely for free.
+quadratic equation
+## Pre Requisites
+* Good Hand in Python 
 
 ## How To use it Effectively?
 Questions are sorted by the topics Like Maths, Arrays,etc. in there seprate folder. open the folder you want to learn topics about. you'll find questions in there. 
