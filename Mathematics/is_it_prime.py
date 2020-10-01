@@ -59,7 +59,7 @@ Time Complexity.
 
 # Driver Code
 if __name__ == "__main__":
-    print("Choose the approch :\n 0 - Navive-approch \n 1 - Efficient-approch")
+    print("Choose the approch :\n 0 - Naive-approch \n 1 - Efficient-approch")
     while True:
         c = int(input("Enter your choice :"))
         if c == 0 or c == 1:
